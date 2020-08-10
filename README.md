@@ -7,4 +7,4 @@ collected a total of 3068 tweets which were then manually hand labelled.
 
 Upon text preprocessing tasks and data cleaning procedures I have hard coded Naive Bayes Classifer using python and that gave an accuracy of 82 % which is implemented in Naive Bayes.ipynb.
 
-I have also tried other classifier such as logistic regression, decision tree and Gaussian NB all of which can be found in Other_Classifiers.ipynb.
+I have also tried other classifier such as logistic regression, decision tree and Gaussian NB all of which can be found in Other Classifiers.ipynb.
